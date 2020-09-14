@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "bootstrap": "^4.5.2",
+    "html-table-to-json": "^1.0.0",
+    "jQuery": "^1.7.4",
+    "node-fetch": "^2.6.1"
+  }
 }
